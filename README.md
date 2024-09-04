@@ -12,7 +12,7 @@ The [Aquarium Object Detection Dataset](https://public.roboflow.com/object-detec
 ![train1.jpg](https://github.com/myatmyintzuthin/aquarium_object_detection/blob/main/assets/train1.jpg)
 ------
 #### Model 
-We will be using EfficientDet D0 model from [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). They provide a collection of detection models pre-trained on the [COCO 2017 dataset](https://cocodataset.org/).
+We will be using EfficientDet D0 model from [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). They provide a collection of detection models pre-trained on the [COCO dataset](https://cocodataset.org/).
 | Model name  | Speed (ms)  | COCO mAP | Outputs |
 | ----------- | ----------- | -------- | ------- |
 | [EfficientDet D0 512x512](http://download.tensorflow.org/models/object_detection/tf2/20200711/efficientdet_d0_coco17_tpu-32.tar.gz)      | 39       | 33.6 | Boxes |
