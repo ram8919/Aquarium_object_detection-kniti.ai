@@ -1,5 +1,4 @@
-# Aquarium Object Detection :tropical_fish:
-[![TensorFlow 2.6](https://img.shields.io/badge/TensorFlow-2.6-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.6.0) 
+# Aquarium Object Detection :
 
 Underwater Health Monitoring is an essential way to prevent extinction of sea animals and coral reef. In this repository, we will build an aquarium object detection system using Deep Learning and Computer Vision. 
 
